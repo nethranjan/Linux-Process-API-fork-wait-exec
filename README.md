@@ -37,9 +37,8 @@ Test the C Program for the desired output.
 
 
 
-##OUTPUT
-
-
+## OUTPUT
+![Alt text](img/imag021.png)
 
 
 
@@ -94,3 +93,6 @@ Test the C Program for the desired output.
 
 # RESULT:
 The programs are executed successfully.
+
+
+[def]: img/imag021.png
